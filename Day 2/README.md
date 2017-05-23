@@ -23,7 +23,7 @@ Create a program that when run will give the following output in the console:
 
 ### Task 4
 
-What I want for Xmas? Chessboard!
+What I want for Xmas? Chessboard! (Hint: try to use functions)
 
 ![Task 4](task4.png)
 
