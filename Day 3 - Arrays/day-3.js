@@ -42,3 +42,8 @@ function sortBigArray(array) {
 
 }
 
+// Task 6 - Find max product of triplets
+function findMaxProduct(array) {
+
+}
+
